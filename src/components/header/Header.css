@@ -1,0 +1,20 @@
+.header{
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px 0px 100px;
+    align-items: center;
+}
+nav.header  a{
+    text-decoration: none;
+    color: white;
+}
+.menu{
+    display: flex;
+    gap: 20px;
+    
+}
+.menu a:hover{
+    color: rgb(255, 217, 0);
+}
