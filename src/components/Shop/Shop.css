@@ -8,3 +8,34 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+.l-proceed{
+    text-decoration: none;
+}
+.btn-proceed{
+    background-color: #ff9900;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 56px;
+    margin: 10px auto;
+    align-items: center;
+    
+    color: white;
+}
+/* .review-btn{
+    
+    
+}
+.btn-r{
+    margin: auto;
+    align-items: center;
+}
+.review-order{
+    
+    width: 90%;
+    height: 56px;
+    
+    
+    background: #ff3030;
+    color: white;
+} */
